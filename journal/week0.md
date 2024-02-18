@@ -24,7 +24,7 @@
 > Play 'Be the Packet' to understand the system in detail.
 > Documnet everything.
 
-[concpetual_design] (assets\app_conceptual_design.png)
+[concpetual_design] (assets/app_conceptual_design.png)
 
 
 
