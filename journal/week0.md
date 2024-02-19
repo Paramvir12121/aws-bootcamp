@@ -28,9 +28,9 @@
 ![concpetual_design](assets/app_conceptual_design.png)
 
 ## Week 0 Goals
-- [] Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue.
+- [ ] Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue.
 - [x] Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
-- [] Research the technical and service limits of specific services and how they could impact the technical path for technical flexibility. 
+- [ ] Research the technical and service limits of specific services and how they could impact the technical path for technical flexibility. 
 
 
 
