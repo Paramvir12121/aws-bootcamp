@@ -1,13 +1,10 @@
-# FREE AWS Cloud Project Bootcamp
+#  AWS Cloud Project Bootcamp
 
-- Application: Cruddur
-- Cohort: 2023-A1
+This self bootcamp is partially based on Free AWS Cloud Project Bootcamp 2023 by Organized by: [AWS Ontario Virtual User Group](https://www.meetup.com/aws-ontario-virtual-user-group/)
 
-This is the starting codebase that will be used in the FREE AWS Cloud Project Bootcamp 2023
+- Application: 10p2
 
-![Cruddur Graphic](_docs/assets/cruddur-banner.jpg)
 
-![Cruddur Screenshot](_docs/assets/cruddur-screenshot.png)
 
 ## Instructions
 
